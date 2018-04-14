@@ -7,6 +7,7 @@ In this repo, I will be looking at Global Terrorism data from the Global Terrori
 
 ### Part One
 - This first part of this project was doing some EDA to explore the data is relevant to part 2 and 3. This included a couple of graphs made in Tableau to help visualize the data. These visualizations gave me an idea for part 2 and a baseline for part 3. Please be patinate with the Tableau visualizations as they are running through Tableau Public and might have a little delay as you interact with them.
+- As of right now the Tbaleau visualizations are not working in the Jupyter notebook. Please view them on my [Tableau Profile](https://public.tableau.com/profile/cbjohnson30#!/).
 
 ### Part Two
 - The second part of this project was to create a Bayesian Inference on a section of the data of your choosing. I chose to look at armed assaults deaths in the United States and Western Europe. My prior was all armed assaults in North America and Western Europe. 
